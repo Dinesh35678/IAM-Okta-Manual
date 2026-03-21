@@ -18,21 +18,10 @@ File**
 -   Ensure **username is the email ID**.
 
 #### Sample Users
-
   -----------------------------------------------------------------------
   First Name  Last Name Email (Username)         Login
   ----------- --------- ------------------------ ------------------------
-  John        Doe       john.doe@gmail.com       john.doe@gmail.com
-
-  Priya       Sharma    priya.sharma@yahoo.com   priya.sharma@yahoo.com
-
-  Arun        Kumar     arun.kumar@outlook.com   arun.kumar@outlook.com
-
-  Meena       R         meena.r@company.com      meena.r@company.com
-
-  Rahul       Verma     rahul.verma@gmail.com    rahul.verma@gmail.com
-  -----------------------------------------------------------------------
-
+  
 ### 4. Upload CSV File
 
 Upload the completed CSV file into Okta.
