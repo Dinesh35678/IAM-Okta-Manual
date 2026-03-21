@@ -1,5 +1,5 @@
 # Automate Bulk User Creation Using CSV in Okta
-
+Bulk user creation in Okta allows administrators to efficiently onboard multiple users by uploading a CSV file containing user details such as name, email, department, and role. This process automates account provisioning, reduces manual effort, ensures consistency, and can trigger group assignments and application access based on predefined policies.
 ## Steps
 
 ### 1. Login to Okta Admin Console
